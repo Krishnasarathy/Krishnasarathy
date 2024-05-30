@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Krishnasarathy
-- 👀 I’m interested in Data science
-- 🌱 I’m currently learning Artificial Intelligence
+- 👀 I’m interested in Data science and FullStack
+- 🌱 I’m currently Pursuing Artificial Intelligence and Data Science
 - 💞️ I’m looking to collaborate on Data science
 - 📫 How to reach me krishnasarathy74@gmail.com
 
