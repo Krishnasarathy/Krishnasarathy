@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Krishnasarathy
-- 👀 I’m interested in Data science and FullStack
-- 🌱 I’m currently Pursuing Artificial Intelligence and Data Science
-- 💞️ I’m looking to collaborate on Data science
-- 📫 How to reach me krishnasarathy74@gmail.com
+👋 Hi, I’m @Krishnasarathy
+🌱 Currently diving deep into Advanced Machine Learning to explore cutting-edge algorithms and applications.
+📫 How to reach me krishnasarathy74@gmail.com
 
 <!---
 Krishnasarathy/Krishnasarathy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
