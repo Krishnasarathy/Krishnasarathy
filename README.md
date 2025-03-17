@@ -6,7 +6,8 @@
 🌱 Currently diving deep into Advanced Machine Learning to explore cutting-edge algorithms and applications.  
 📫 How to reach me: krishnasarathy74@gmail.com  
 
-### 🛠 Skills:
+
+<h2 align="center">### 🛠 Skills:</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="40">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=coffeescript&logoColor=white" height="40">
