@@ -17,3 +17,14 @@
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" height="40">
 
 </p>
+
+
+<h2 align="center">Connect with me:</h2>
+<p align="center">
+  <a href="[https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/krishnasarathy-s-k-29b445230/)" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="40">
+  </a>
+  <a href="https://leetcode.com/u/Krishna_KS/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" height="40">
+  </a>
+</p>
