@@ -1,6 +1,6 @@
 ![Black Gradient Minimalist Corporate Business Personal Profile New LinkedIn Banner](https://github.com/user-attachments/assets/b11f118a-2e1d-4f8c-a086-afcb243f90a0)
 
-
+<h2 align="center">👋 Hi, I’m @Krishnasarathy</h2>
 
 
 👋 Hi, I’m @Krishnasarathy  
