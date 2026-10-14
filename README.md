@@ -9,8 +9,7 @@
 Building scalable, reliable web applications with React, TypeScript, FastAPI and Python.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krishnasarathy-s-k-29b445230/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/krishna_ks/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/krishnasarathy74/)
+
 
 </div>
 
@@ -38,25 +37,14 @@ I'm a software engineer who enjoys designing and shipping end-to-end products, f
 | **Cloud & Tools** | ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
 | **Data & ML** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) |
 
----
 
-## 🚀 Featured Projects
-
-> Add your best projects here: a short description, tech used, and links.
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| **[Project Name](https://github.com/your-username/project)** | One-line summary of what it does and the problem it solves. | React, FastAPI, PostgreSQL |
-| **[Project Name](https://github.com/your-username/project)** | One-line summary of what it does and the problem it solves. | Python, LLMs |
-
----
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
 <!-- Replace YOUR_GITHUB_USERNAME with your actual GitHub username -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Krishnasarathy&show_icons=true&theme=default&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true)
 
 </div>
