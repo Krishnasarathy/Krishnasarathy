@@ -5,13 +5,15 @@
 <h1 align="center">Hi 👋, I'm Krishnasarathy</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
-- 🌱 I’m currently learning **Advanced Machine Learning to explore cutting-edge algorithms and applications.**
+👨‍💻 Software Engineer  
 
-- 💬 Ask me about **Full Stack and Machine Learning**
+⚡ Building scalable applications with React, TypeScript, FastAPI & Python  
 
-- 📫 How to reach me **krishnasarathy74@gmail.com**
+🗄️ PostgreSQL | REST APIs | Azure  
 
-- ⚡ Fun fact **I talk to AI models more than humans.**
+🤖 Interested in AI, LLMs and solving real-world problems  
+
+🚀 Always learning, building, and improving.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
