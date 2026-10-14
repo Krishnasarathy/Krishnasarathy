@@ -8,7 +8,7 @@
 
 Building scalable, reliable web applications with React, TypeScript, FastAPI and Python.
 
-[![LinkedIn](https://www.linkedin.com/in/krishna-sarathy-s-k-29b445230/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishna-sarathy-s-k-29b445230/)
 
 
 </div>
